@@ -2,9 +2,7 @@
 name: Spike template
 about: Issue template for spikes
 title: Spike Title
-labels: ''
-assignees: ''
-
+type: Spike
 ---
 
 ## Goal description
@@ -12,3 +10,5 @@ assignees: ''
 ## Question
 
 ## Additional information
+
+## Follow-ups

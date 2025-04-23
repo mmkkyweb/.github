@@ -26,4 +26,3 @@
 - [ ] Tests created or updated as necessary
 - [ ] Author has manually tested the update
 - [ ] Reviewer has manually tested the update
-- [ ] Upon merge, commit history is clean
